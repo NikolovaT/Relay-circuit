@@ -23,7 +23,7 @@ Set relay on and off durations by turning potentiometers. Controled by Arduino N
 
 ## Schematic
 
-![[Arduino/extras/relay_nano_schematic.png]]
+![[relay_nano_schematic.png]]
 
 
 ## PCB layout
